@@ -1,0 +1,5 @@
+my_name      = "ana"
+environment  = "azure"
+location     = "westeurope"
+my_public_id = "185.100.244.35"
+my_password  = "adminuser123!"
